@@ -7,6 +7,8 @@ de estudos em Java.
 
 
 *Laços de Repetição*
+
+<br>
 While: Executa o loop enquanto a condição for verdadeira
 // Contar de 1 até 10
 int contador = 1;
