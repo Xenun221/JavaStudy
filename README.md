@@ -11,7 +11,9 @@ de estudos em Java.
 While: Executa o loop enquanto a condição for verdadeira
 ###
 // Contar de 1 até 10
+###
 int contador = 1;
+###
 while(contador <= 10){
    System.out.println("Contador " + contador)
    contador+=1;
@@ -20,7 +22,9 @@ while(contador <= 10){
 Do While: Executa o loop primeiro e depois verifica a condição.
 ###
 // Contar de 1 até 10
+###
 int contador = 0;
+###
 do{
     contador++;
     System.out.println("Contador "+  contador)
